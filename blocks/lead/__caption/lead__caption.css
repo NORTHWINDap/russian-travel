@@ -9,6 +9,7 @@
 }
 @media (max-width: 768px) {
   .lead__caption {
+    margin: 0;
     padding-left: 24px;
   }
 }
