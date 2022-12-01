@@ -6,15 +6,16 @@
 
 @media screen and (min-width: 768px) {
   .intro {
-      padding: 88px 24px 0;
+   padding: 88px 24px 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro {
     padding-top: 92px;
+    padding-left: 48px;
     width: 70%;
-    margin: 0 0 0 5%;
+    margin: 0;
   }
 }
 
